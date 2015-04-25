@@ -1,0 +1,3 @@
+this is third file for sandbox.
+
+it is used for deletion.
